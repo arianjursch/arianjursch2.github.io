@@ -1,1 +1,127 @@
+<!DOCTYPE html>
+<html>
+<title>
+Mappe
+</title>
+<head>
+<link href="design.css" rel="stylesheet">
+  <h1><u><div align="center"> Mappe </div></u></h1>
+   <li><a href="file:///C:/Users/Schule/Desktop/Schule/WPU/M.I.T.%20Klasse%209/Website/index2.html">Home</a></li>
+    <li><a href="file:///C:/Users/Schule/Desktop/Schule/WPU/M.I.T.%20Klasse%209/Website/Mappe.html">Mappe</a></li>
+     <li><a href="file:///C:/Users/Schule/Desktop/Schule/WPU/M.I.T.%20Klasse%209/Website/index3.html">About</a></li>
+   </head>
+   <style>
+  a {color: #034f84;}
+   a:visited {color: #034f84}
+   a { color: red; font-size: 3rem; }
+     body { color: black; font-family: arial, sans-serif; font-size:28pt; }
+body { background-color:#787878; color:#034f84; }
+<style>
+table {
+   font-family: arial, sans-serif;
+   border-collapse: collapse;
+   width: 100%;
+ }
+
+ td, th {
+   border: 1px solid #dddddd;
+   text-align: left;
+   padding: 8px;
+ }
+
+ tr:nth-child(even) {
+   background-color: #dddddd;
+ }
+ </style>
+ </head>
+ <body>
+   <p>___________________________________________________________________________________________
+<h2>Inhaltverzeichnis</h2>
+
+ <table>
+   <tr>
+     <th>Datum</th>
+     <th>Thema</th>
+   </tr>
+   <tr>
+     <td>19.8.19</td>
+     <td><a href="https://www.w3schools.com/html/default.asp">HTML-Grundlagen</a></td>
+     </tr>
+   <tr>
+     <td>21.8.19</td>
+     <td><a href="">HTML-Website</a></td>
+
+   </tr>
+   <tr>
+     <td>26.8.19</td>
+     <td><a href="file:///home/arian.jursch/Files/Homepage/Segelfahrt.html">Segelfahrt</a></td>
+
+   </tr>
+   <tr>
+     <td>28.8.19</td>
+     <td><a href="file:///home/arian.jursch/Files/Homepage/Segelfahrt.html">Segelfahrt</a></td>
+
+   </tr>
+   <tr>
+     <td>2.9.19</td>
+     <td><a href="file:///home/arian.jursch/Files/Homepage/index2.html">HTML-Website</a></td>
+
+   </tr>
+   <tr>
+     <td>4.9.19</td>
+     <td><a href="https://funduino.de">Arduino</a></td>
+
+   </tr>
+   <tr>
+     <td>9.9.19</td>
+     <td><a href="https://funduino.de/nr-1-blinkende-led">Arduino Lampe</a></td>
+
+   </tr> <tr>
+      <td>11.9.19</td>
+      <td><a href="">Ausfall</a></td>
+
+    </tr> <tr>
+       <td>16.9.19</td>
+       <td><a href="http://nmp24.de/?Mikrocontroller:senseBox%3Aedu:Arduino-Ampel_1">Arduino Ampel</a></td>
+
+     </tr> <tr>
+        <td>18.9.19</td>
+        <td><a href="http://nmp24.de/?Mikrocontroller:senseBox%3Aedu:Arduino-Ampel_1">Arduino Ampel</a></td>
+
+      </tr> <tr>
+         <td>23.9.19</td>
+         <td><a href="https://funduino.de/nr-20-rgb-led">RGB Led</a></td>
+
+       </tr> <tr>
+          <td>25.9.19</td>
+          <td><a href="https://plenergy.de/">Plenergy Projekt</a></td>
+
+        </tr> <tr>
+           <td>30.9.19</td>
+           <td><a href="https://funduino.de/nr-3-licht-und-ton">Arduino Licht und Ton</a></td>
+
+         </tr> <tr>
+            <td>2.10.19</td>
+              <td><a href="https://funduino.de/nr-8-bewegungsmelder">Arduino Bewegungsmelder</a></td>
+
+          </tr> <tr>
+             <td>3-20.10.19</td>
+             <td><a href="">Ferien</a></td>
+
+           </tr> <tr>
+              <td>21.10.19</td>
+              <td><a href="file:///home/arian.jursch/Files/Homepage/Mappe.html">Html Mappe</a></td>
+
+            </tr> <tr>
+               <td>23.10.19</td>
+                <td><a href=""></a></td>
+
+             </tr> <tr>
+                <td>28.10.19</td>
+                <td></td>
+
+              </tr>
+ </table>
+</body>
+<u></u>
 
